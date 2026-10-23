@@ -6,6 +6,6 @@ export default function robots(): MetadataRoute.Robots {
       userAgent: "*",
       allow: "/",
     },
-    sitemap: "https://amged-portfolio.vercel.app/sitemap.xml",
+    sitemap: "https://amged-badawy.vercel.app/sitemap.xml",
   };
 }
